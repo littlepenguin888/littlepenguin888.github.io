@@ -19,7 +19,7 @@ a{
 	z-index:999999999;    width: 100%;    
 }
 .nav ul{
-	position: absolute;
+	position: relative;
     left: 760px;    padding: 0 10px;
     top: 0px;
 	color: #fff;
